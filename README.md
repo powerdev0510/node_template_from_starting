@@ -1,0 +1,1 @@
+# node_template_from_starting
